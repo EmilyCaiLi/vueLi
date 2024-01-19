@@ -19,6 +19,7 @@ import TheWelcome from './components/TheWelcome.vue'
       <div>development: add</div>
       <div>development: -test-aaa</div>
       <div>feature-a: 3</div>
+      <div>feature-a: 4</div>
     </main>
 </div>
 </template>
