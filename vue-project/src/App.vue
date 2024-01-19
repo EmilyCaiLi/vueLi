@@ -17,9 +17,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <main>
       <TheWelcome />
       <div>development: add</div>
-      <div>development: -test-aaa</div>
-      <div>feature-a: 3</div>
-      <div>feature-a: 4</div>
+      <div>dev1:add</div>
     </main>
 </div>
 </template>
